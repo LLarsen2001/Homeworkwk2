@@ -1,0 +1,35 @@
+
+* {
+  font-family: 'Playfair Display', serif;
+}
+.background{
+  background-color: #000000
+}
+tml {
+  background-color: #000000;
+}
+.post {
+  color:rgba(231, 236, 240, 0.558)
+}
+.container {
+  background-color: rgba(42, 40, 40, 0.598);
+  display: flex;
+  /* height: 150px; */
+  width: 1000px;
+  box-shadow: rgba(33, 33, 33, 0.902) 0px 4px 6px -1px, rgba(255, 253, 253, 0.669) 0px 2px 4px -1px;
+  /* border: 1px solid grey; */
+  border-radius: 5px;
+
+  padding: 10px;
+  margin: 10px;
+}
+.bio {
+  margin-left:10px;
+}
+.user-name {
+  font-weight:bold;
+  color:steelblue;
+}
+/* p{
+  color:red;
+} */
